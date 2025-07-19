@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Soumen Sen. And I'm a Passionate Programmer.</h2>
+<h2 align="left">Hi 👋! My name is Soumen Sen.I'm a Passionate Programmer.</h2>
 
 ###
 
