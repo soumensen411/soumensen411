@@ -69,10 +69,10 @@
 
 ###
 
-<br clear="both">
 
+<br clear="both">
 <div align="center">
-  <img src="https://profile-counter.glitch.me/soumensen411/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=soumensen411.soumensen411&rstyle=plastic&left_text=Profile%20Views%20:" />
 </div>
 
 ###
