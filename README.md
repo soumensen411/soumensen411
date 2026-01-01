@@ -16,22 +16,22 @@
 </div> -->
 
 <div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
 
-###
+##
 
 <br clear="both">
 
 <img align="left" height="480" width = "100%" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
-###
+##
 
 <br clear="both">
 
 <h3 align="left">Technology and Tools</h3>
 
-###
+##
 
 <br clear="both">
 
@@ -55,11 +55,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="arduino logo"  />
 </div>
 
-###
+##
 
 <h3 align="left">Contact with me</h3>
 
-###
+##
 
 <div align="left">
   <a href="https://www.linkedin.com/in/soum-en-sen/" target="_blank">
@@ -79,7 +79,7 @@
   </a>
 </div>
 
-###
+##
 
 
 <br clear="both">
@@ -87,6 +87,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=soumensen411.soumensen411&rstyle=plastic&left_text=Profile%20Views%20:" />
 </div>
 
-###
+##
 
 <div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
