@@ -7,7 +7,7 @@ def whoami():
     name        = "Soumen Sen"
     handle      = "@soumensen411"
     role        = "Computer Engineering Student"
-    goal        = "Aspiring Data Scientist "
+    goal        = "Data Scientist "
 
     languages   = ["Python", "C++", "C", "JavaScript"]
     tools       = ["VS Code", "Git", "GitHub", "Arduino"]
@@ -21,7 +21,7 @@ whoami()
 ## `> Code_Dna`
 
 <div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
 
 ##
