@@ -2,7 +2,7 @@
 
 ## `> whoami`
 
-```python
+```
 def whoami():
     name        = "Soumen Sen"
     handle      = "@soumensen411"
@@ -21,7 +21,10 @@ whoami()
 ## `> Code_Dna`
 
 <div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=tokyonight&graph=false&languages=true&streak=false&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</div>
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=tokyonight&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </div>
 
 ##
