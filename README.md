@@ -1,39 +1,31 @@
-<div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<img src="https://ik.imagekit.io/xrrsiofbq/Gemini_Generated_Image_y9pz18y9pz18y9pz%20(1).png" width="100%" />
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Soumen;Computer+Engineering+Student;Passionate+Programmer;" alt="Computer Engineering Student,Passionate Programmer;"></a>
-</div>
+## `> whoami`
 
-<!-- <h2 align="left">Hi 👋! My name is Soumen Sen.I'm a Passionate Programmer.</h2> -->
+```python
+def whoami():
+    name        = "Soumen Sen"
+    handle      = "@soumensen411"
+    role        = "Computer Engineering Student"
+    goal        = "Aspiring Data Scientist "
 
-###
-## My Code DNA
+    languages   = ["Python", "C++", "C", "JavaScript"]
+    tools       = ["VS Code", "Git", "GitHub", "Arduino"]
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumensen411&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumensen411&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+    currently   = "🔭 Building cool stuff & learning every day"
+    looking_for = "🤝 Collaborations, open source, and new ideas"
+
+whoami()
+```
+
+## `> Code_Dna`
 
 <div align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
 
 ##
-
-<br clear="both">
-
- <img align="left" height="480" width = "100%" src="241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  /> 
-
-##
-
-<br clear="both">
-
-<h3 align="left">Technology and Tools</h3>
-
-##
-
-<br clear="both">
+## `> Languages and Tools`
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
@@ -50,37 +42,53 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
   <img width="17" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask logo"  />
+  <img width="17" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" />
+  <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="17" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" />
+    <img width="17" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="35" />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="arduino logo"  />
 </div>
 
 ##
 
-<h3 align="left">Contact with me</h3>
+## `> Contact With Me`
 
-##
-
-<div align="left">
+<div style="display: flex; align-items: center; gap: 12px;">
+  
   <a href="https://www.linkedin.com/in/soum-en-sen/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" />
+      
   </a>
-  <a href="soumensen411@gamil.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="40" alt="gmail logo"  />
+  <a href="mailto:soumensen411@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" />
   </a>
+
   <a href="https://www.hackerrank.com/profile/Soumensen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="57" height="40" alt="hackerrank logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="40" alt="hackerrank logo" />
   </a>
-  <a href="https://discord.com/channels/662267976984297473" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="57" height="40" alt="discord logo"  />
+
+  <a href="https://discord.com/users/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo" />
   </a>
+
   <a href="https://www.instagram.com/soum_en_sen/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" />
   </a>
+
 </div>
 
 ##
-
 
 <br clear="both">
 <div align="center">
