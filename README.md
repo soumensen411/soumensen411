@@ -29,42 +29,83 @@ whoami()
 
 ##
 ## `> Languages and Tools`
+
+<br>
+
+**🧠 Data Science**
 <br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy" />
   <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas" />
   <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35" alt="matplotlib" />
   <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="35" alt="seaborn" />
   <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="35" alt="scipy" />
   <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
-  <img width="17" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask logo"  />
-  <img width="17" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-  <img width="17" />
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" />
-    <img width="17" />
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="35" />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="arduino logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35" alt="scikit-learn" />
 </div>
+
 <br>
 
-##
+**🌐 Web Development**
+<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss" />
+  <img width="17" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white" height="35" alt="daisyui" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask" />
+  <img width="17" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" height="35" alt="vite" />
+  <img width="17" />
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="35" alt="gsap" />
+  <img width="17" />
+</div>
+
+<br>
+
+**💻 Programming Languages**
+<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c" />
+</div>
+
+<br>
+
+**🛠️ Tools & Others**
+<br>
+<div align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="35" alt="git" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode" />
+  <img width="17" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="35" alt="postman" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="arduino" />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb" />
+  <img width="17" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="35" alt="firebase" />
+</div>
+
+<br>
 
 ## `> Contact With Me`
 
