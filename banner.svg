@@ -1,0 +1,649 @@
+<svg width="100%" height="300" viewBox="0 0 1200 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05080D"/>
+      <stop offset="50%" stop-color="#0A111B"/>
+      <stop offset="100%" stop-color="#05090F"/>
+    </linearGradient>
+
+    <!-- Main ML blue -->
+    <linearGradient id="mlBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#67E8F9"/>
+      <stop offset="45%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <!-- Name -->
+    <linearGradient id="name" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E2E8F0"/>
+      <stop offset="45%" stop-color="#FFFFFF"/>
+      <stop offset="70%" stop-color="#7DD3FC"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+
+    <!-- Grid -->
+    <pattern id="grid" width="40" height="40"
+             patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40"
+            fill="none"
+            stroke="#38BDF8"
+            stroke-opacity="0.055"/>
+    </pattern>
+
+    <!-- Small dots -->
+    <pattern id="dots" width="32" height="32"
+             patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.8"
+              fill="#7DD3FC"
+              opacity="0.25"/>
+    </pattern>
+
+    <style>
+
+      .mono {
+        font-family:
+          "JetBrains Mono",
+          "SF Mono",
+          Consolas,
+          monospace;
+      }
+
+      .sans {
+        font-family:
+          Inter,
+          "Segoe UI",
+          Arial,
+          sans-serif;
+      }
+
+      @keyframes pulse {
+        0%,100% {
+          opacity:.25;
+          transform:scale(.85);
+        }
+        50% {
+          opacity:1;
+          transform:scale(1.15);
+        }
+      }
+
+      @keyframes dataFlow {
+        0% {
+          stroke-dashoffset:40;
+          opacity:.15;
+        }
+        50% {
+          opacity:1;
+        }
+        100% {
+          stroke-dashoffset:0;
+          opacity:.15;
+        }
+      }
+
+      @keyframes blink {
+        0%,45%,100% {
+          opacity:.3;
+        }
+        50%,75% {
+          opacity:1;
+        }
+      }
+
+      @keyframes scan {
+        0% {
+          transform:translateX(-900px);
+          opacity:0;
+        }
+        20% {
+          opacity:.25;
+        }
+        80% {
+          opacity:.25;
+        }
+        100% {
+          transform:translateX(1200px);
+          opacity:0;
+        }
+      }
+
+      @keyframes wave {
+        0%,100% {
+          opacity:.25;
+        }
+        50% {
+          opacity:.8;
+        }
+      }
+
+      .pulse {
+        animation:pulse 2.5s infinite ease-in-out;
+        transform-box:fill-box;
+        transform-origin:center;
+      }
+
+      .flow {
+        stroke-dasharray:8 10;
+        animation:dataFlow 2s linear infinite;
+      }
+
+      .blink {
+        animation:blink 3s infinite;
+      }
+
+      .wave {
+        animation:wave 4s infinite ease-in-out;
+      }
+
+      .scan {
+        animation:scan 8s linear infinite;
+      }
+
+    </style>
+
+  </defs>
+
+
+  <!-- ================================================= -->
+  <!-- BACKGROUND -->
+  <!-- ================================================= -->
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <rect width="1200" height="300" fill="url(#dots)"/>
+
+
+  <!-- Ambient glow -->
+
+  <ellipse
+    cx="600"
+    cy="145"
+    rx="430"
+    ry="145"
+    fill="#0EA5E9"
+    opacity=".045"
+    filter="url(#softGlow)"
+  />
+
+  <ellipse
+    cx="190"
+    cy="260"
+    rx="230"
+    ry="80"
+    fill="#06B6D4"
+    opacity=".08"
+    filter="url(#softGlow)"
+  />
+
+  <ellipse
+    cx="1020"
+    cy="80"
+    rx="220"
+    ry="80"
+    fill="#3B82F6"
+    opacity=".07"
+    filter="url(#softGlow)"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- SCANNING DATA LINE -->
+  <!-- ================================================= -->
+
+  <rect
+    x="-100"
+    y="0"
+    width="2"
+    height="300"
+    fill="url(#mlBlue)"
+    opacity=".25"
+    class="scan"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- CORNER HUD -->
+  <!-- ================================================= -->
+
+  <path
+    d="M30 48V22H60"
+    fill="none"
+    stroke="#38BDF8"
+    stroke-width="1.5"
+  />
+
+  <path
+    d="M1170 48V22H1140"
+    fill="none"
+    stroke="#38BDF8"
+    stroke-width="1.5"
+  />
+
+  <path
+    d="M30 252V278H60"
+    fill="none"
+    stroke="#38BDF8"
+    stroke-width="1.5"
+  />
+
+  <path
+    d="M1170 252V278H1140"
+    fill="none"
+    stroke="#38BDF8"
+    stroke-width="1.5"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- TOP LEFT -->
+  <!-- ================================================= -->
+
+  <circle
+    cx="72"
+    cy="43"
+    r="3"
+    fill="#22D3EE"
+    class="pulse"
+  />
+
+  <text
+    x="84"
+    y="47"
+    class="mono"
+    font-size="10"
+    letter-spacing="2"
+    fill="#64748B">
+    
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- TOP RIGHT -->
+  <!-- ================================================= -->
+
+  <text
+    x="1128"
+    y="47"
+    text-anchor="end"
+    class="mono"
+    font-size="10"
+    letter-spacing="2"
+    fill="#64748B">
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- LEFT ML PIPELINE -->
+  <!-- ================================================= -->
+
+  <g opacity=".8">
+
+    <!-- Input -->
+    <circle
+      cx="95"
+      cy="112"
+      r="5"
+      fill="none"
+      stroke="#38BDF8"
+      stroke-width="1.3"
+    />
+
+    <circle
+      cx="95"
+      cy="145"
+      r="5"
+      fill="none"
+      stroke="#38BDF8"
+      stroke-width="1.3"
+    />
+
+    <circle
+      cx="95"
+      cy="178"
+      r="5"
+      fill="none"
+      stroke="#38BDF8"
+      stroke-width="1.3"
+    />
+
+    <!-- Hidden -->
+    <circle
+      cx="135"
+      cy="130"
+      r="5"
+      fill="#38BDF8"
+      opacity=".45"
+    />
+
+    <circle
+      cx="135"
+      cy="160"
+      r="5"
+      fill="#38BDF8"
+      opacity=".65"
+    />
+
+    <!-- Output -->
+    <circle
+      cx="175"
+      cy="145"
+      r="7"
+      fill="none"
+      stroke="#67E8F9"
+      stroke-width="1.5"
+      class="pulse"
+    />
+
+    <!-- Connections -->
+
+    <g
+      stroke="#38BDF8"
+      stroke-width=".8"
+      opacity=".35"
+      class="flow">
+
+      <path d="M100 112L130 130"/>
+      <path d="M100 112L130 160"/>
+
+      <path d="M100 145L130 130"/>
+      <path d="M100 145L130 160"/>
+
+      <path d="M100 178L130 130"/>
+      <path d="M100 178L130 160"/>
+
+      <path d="M140 130L169 145"/>
+      <path d="M140 160L169 145"/>
+
+    </g>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- LEFT LABEL -->
+  <!-- ================================================= -->
+
+  <text
+    x="52"
+    y="215"
+    class="mono"
+    font-size="8"
+    letter-spacing="1.5"
+    fill="#475569">
+    INPUT → FEATURES → MODEL
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- MAIN NAME -->
+  <!-- ================================================= -->
+
+  <text
+    x="600"
+    y="124"
+    text-anchor="middle"
+    class="sans"
+    font-size="62"
+    font-weight="700"
+    letter-spacing="3"
+    fill="url(#name)"
+    filter="url(#glow)">
+    Soumen Sen
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- ML SYMBOL DIVIDER -->
+  <!-- ================================================= -->
+
+  <line
+    x1="365"
+    y1="151"
+    x2="535"
+    y2="151"
+    stroke="#38BDF8"
+    stroke-width="1"
+    opacity=".65"
+  />
+
+  <line
+    x1="665"
+    y1="151"
+    x2="835"
+    y2="151"
+    stroke="#38BDF8"
+    stroke-width="1"
+    opacity=".65"
+  />
+
+  <!-- Neural network symbol -->
+
+  <g
+    transform="translate(600 151)"
+    filter="url(#glow)">
+
+    <circle
+      cx="-16"
+      cy="0"
+      r="3"
+      fill="#67E8F9"
+    />
+
+    <circle
+      cx="0"
+      cy="-8"
+      r="3"
+      fill="#67E8F9"
+    />
+
+    <circle
+      cx="0"
+      cy="8"
+      r="3"
+      fill="#67E8F9"
+    />
+
+    <circle
+      cx="16"
+      cy="0"
+      r="3"
+      fill="#67E8F9"
+    />
+
+    <path
+      d="M-13 0L-3 -8
+         M-13 0L-3 8
+         M3 -8L13 0
+         M3 8L13 0"
+      stroke="#67E8F9"
+      stroke-width="1"
+      fill="none"
+    />
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- TITLE -->
+  <!-- ================================================= -->
+
+  <text
+    x="600"
+    y="185"
+    text-anchor="middle"
+    class="sans"
+    font-size="15"
+    letter-spacing="5"
+    fill="#A5B4FC">
+    MACHINE LEARNING ENGINEER
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- ML CONCEPTS -->
+  <!-- ================================================= -->
+
+  <text
+    x="600"
+    y="208"
+    text-anchor="middle"
+    class="mono"
+    font-size="9"
+    letter-spacing="2"
+    fill="#475569">
+    DATA • LEARNING • PREDICTION • INTELLIGENCE
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- RIGHT SIDE MODEL GRAPH -->
+  <!-- ================================================= -->
+
+  <g opacity=".8">
+
+    <!-- axes -->
+
+    <line
+      x1="1000"
+      y1="180"
+      x2="1100"
+      y2="180"
+      stroke="#334155"
+      stroke-width="1"
+    />
+
+    <line
+      x1="1000"
+      y1="180"
+      x2="1000"
+      y2="110"
+      stroke="#334155"
+      stroke-width="1"
+    />
+
+    <!-- loss curve -->
+
+    <path
+      d="M1003 118
+         C1020 125 1028 145 1040 153
+         C1052 162 1063 168 1075 172
+         C1085 175 1095 177 1098 178"
+      fill="none"
+      stroke="#38BDF8"
+      stroke-width="1.5"
+      class="wave"
+    />
+
+    <!-- Data points -->
+
+    <circle cx="1010" cy="125" r="2" fill="#67E8F9"/>
+    <circle cx="1025" cy="142" r="2" fill="#67E8F9"/>
+    <circle cx="1040" cy="153" r="2" fill="#67E8F9"/>
+    <circle cx="1055" cy="165" r="2" fill="#67E8F9"/>
+    <circle cx="1075" cy="172" r="2" fill="#67E8F9"/>
+    <circle cx="1092" cy="177" r="2" fill="#67E8F9"/>
+
+  </g>
+
+
+  <!-- Graph label -->
+
+  <text
+    x="1000"
+    y="202"
+    class="mono"
+    font-size="8"
+    letter-spacing="1.5"
+    fill="#475569">
+    LOSS ↓
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- BOTTOM DATA STREAM -->
+  <!-- ================================================= -->
+
+  <g class="mono"
+     font-size="8"
+     fill="#334155"
+     opacity=".8">
+
+    <text x="70" y="240">
+      X = [0.82, 1.24, 0.41, 0.93]
+    </text>
+
+    <text x="430" y="240">
+      f(x) = W·X + b
+    </text>
+
+    <text x="720" y="240">
+      loss(y, ŷ) → min
+    </text>
+
+    <text x="1010" y="240">
+      acc: 94.7%
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- BOTTOM LINE -->
+  <!-- ================================================= -->
+
+  <line
+    x1="180"
+    y1="265"
+    x2="1020"
+    y2="265"
+    stroke="url(#mlBlue)"
+    stroke-width="1"
+    opacity=".25"
+  />
+
+  <circle
+    cx="600"
+    cy="265"
+    r="2"
+    fill="#38BDF8"
+    class="pulse"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- FOOTER -->
+  <!-- ================================================= -->
+
+  <text
+    x="600"
+    y="283"
+    text-anchor="middle"
+    class="mono"
+    font-size="8"
+    letter-spacing="3"
+    fill="#475569">
+    LEARN • BUILD • EXPERIMENT • DEPLOY
+  </text>
+
+
+</svg>
