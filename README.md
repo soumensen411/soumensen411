@@ -1,32 +1,23 @@
-<img src="https://ik.imagekit.io/xrrsiofbq/Gemini_Generated_Image_y9pz18y9pz18y9pz%20(1).png" width="100%" />
+<!-- <img src="https://ik.imagekit.io/xrrsiofbq/Gemini_Generated_Image_y9pz18y9pz18y9pz%20(1).png" width="100%" /> -->
+<div align="center">
+  <img src="banner.svg" width="90%" alt="terminal: python whoami.py" />
+</div>
 
 ## `> whoami`
 
-```
-def whoami():
-    name        = "Soumen Sen"
-    handle      = "@soumensen411"
-    role        = "Computer Engineering Student"
-    goal        = "Data Scientist "
-
-    languages   = ["Python", "C++", "C", "JavaScript"]
-    tools       = ["VS Code", "Git", "GitHub", "Arduino"]
-
-    currently   = "🔭 Building cool stuff & learning every day"
-    looking_for = "🤝 Collaborations, open source, and new ideas"
-
-whoami()
-```
+<div align="center">
+  <img src="terminal.svg" width="90%" alt="terminal: python whoami.py" />
+</div>
 
 ## `> Code_Dna`
 
 <div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=ocean_radical&graph=false&languages=true&streak=false&stats=true&header=false&summary=false&profile=false" alt="soumensen411's GitHub Insights" />
+  <img src="https://github-analytics-incog.vercel.app/api?username=soumensen411&theme=github_dark&graph=false&header=false&profile=false&devscore=false" alt="GitHub Analytics" />
 </div>
 
-<div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=ocean_radical&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false" alt="soumensen411's GitHub Insights" />
-</div>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=github_dark&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false" alt="soumensen411's GitHub Insights" />
+</p>
 
 ##
 ## `> Languages and Tools`
