@@ -11,15 +11,16 @@
 
 ## `> Code_Dna`
 
+
 <div align="center">
   <img src="https://github-analytics-incog.vercel.app/api?username=soumensen411&theme=github_dark&graph=false&header=false&profile=false&devscore=false" alt="GitHub Analytics" />
 </div>
-
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=soumensen411&theme=github_dark&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false" alt="soumensen411's GitHub Insights" />
-</p>
+<div align="center">
+  <img src="https://git-hub-insights-nine.vercel.app/api/insight?username=soumensen411&theme=github_dark&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false&border=false" alt="soumensen411's GitHub Insights" />
+</div>
 
 ##
+
 ## `> Languages and Tools`
 
 <br>
