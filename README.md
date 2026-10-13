@@ -18,6 +18,8 @@
 ##
 
 
+- <strong><a href="https://github.com/soumensen411/Deep-Learning-Model" target="_blank">🧠 Deep Learning Model</a></strong>
+  - Collection of deep learning projects and experiments (CNNs, RNNs, transfer learning) with notebooks, training code, and example models.
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmYxbzBrZXhibHAzbXp5bmxiZzJ1cTkzMGhmbGxoMDMyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="28" alt="animated icon" /> `FEATURED_REPOSITORIES`
 
@@ -221,5 +223,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=soumensen411.soumensen411&rstyle=plastic&left_text=Profile%20Views%20:" />
 
 </div>
+
 
 
