@@ -16,8 +16,32 @@
   <img src="https://github-analytics-incog.vercel.app/api?username=soumensen411&theme=github_dark&graph=false&header=false&profile=false&devscore=false" alt="GitHub Analytics" />
 </div>
 <div align="center">
-  <img src="https://git-hub-insights-nine.vercel.app/api/insight?username=soumensen411&theme=github_dark&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false&border=false" alt="soumensen411's GitHub Insights" />
+  <img src="https://git-hub-insights-nine.vercel.app/api/insight?username=soumensen411&theme=github_dark&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false&bo[...]
 </div>
+
+##
+
+## `> Featured Repositories`
+
+Here are a few of my featured projects and the problems they solve:
+
+- <strong><a href="https://github.com/soumensen411/Movie-Recommendation-ML-Model" target="_blank">🎬 Movie Recommendation ML Model</a></strong>
+  - Builds movie tags from TMDB metadata and recommends similar films using CountVectorizer and cosine similarity.
+
+- <strong><a href="https://github.com/soumensen411/Food-Delivery-Time-Prediction-With-Machine-Learning" target="_blank">🍔 Food Delivery Time Prediction</a></strong>
+  - Predicts delivery duration from real-world order data using end-to-end machine learning workflow and regression models.
+
+- <strong><a href="https://github.com/soumensen411/Data-Structure-Algorithm" target="_blank">🧠 Data Structure & Algorithm Collection</a></strong>
+  - A curated C++ repository covering arrays, linked lists, graphs, trees, sorting, searching, and pattern problems.
+
+- <strong><a href="https://github.com/soumensen411/GitHub-Insights" target="_blank">📊 GitHub Insights</a></strong>
+  - A self-hosted GitHub stats dashboard with customizable cards, contribution graphs, and streak tracking.
+
+- <strong><a href="https://github.com/soumensen411/Bank-Management-System" target="_blank">🏦 Bank Management System</a></strong>
+  - A beginner-friendly C project that simulates core banking operations like account creation, deposits, withdrawals, and inquiries.
+
+- <strong><a href="https://github.com/soumensen411/Student-Mental-Health-Score-Prediction-" target="_blank">🧑‍🎓 Student Mental Health Prediction</a></strong>
+  - Uses a Flask API and ML model to predict student mental health scores from lifestyle and stress-related factors.
 
 ##
 
