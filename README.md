@@ -34,8 +34,8 @@ Here are a few of my featured projects and the problems they solve:
 - <strong><a href="https://github.com/soumensen411/Data-Structure-Algorithm" target="_blank">🧠 Data Structure & Algorithm Collection</a></strong>
   - A curated C++ repository covering arrays, linked lists, graphs, trees, sorting, searching, and pattern problems.
 
-- <strong><a href="https://github.com/soumensen411/GitHub-Insights" target="_blank">📊 GitHub Insights</a></strong>
-  - A self-hosted GitHub stats dashboard with customizable cards, contribution graphs, and streak tracking.
+- <strong><a href="https://github.com/soumensen411/Deep-Learning-Model" target="_blank">🧠 Deep Learning Model</a></strong>
+  - Collection of deep learning projects and experiments (CNNs, RNNs, transfer learning) with notebooks, training code, and example models.
 
 - <strong><a href="https://github.com/soumensen411/Bank-Management-System" target="_blank">🏦 Bank Management System</a></strong>
   - A beginner-friendly C project that simulates core banking operations like account creation, deposits, withdrawals, and inquiries.
@@ -167,4 +167,5 @@ Here are a few of my featured projects and the problems they solve:
 </div>
 
 ##
+
 
