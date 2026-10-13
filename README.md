@@ -3,13 +3,19 @@
   <img src="banner.svg" width="90%" alt="terminal: python whoami.py" />
 </div>
 
+---
+
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHdtMTBzMXEwa3dtc3ZxemQ4aWxndHRhbHJqd283eTlkN3h0bXdkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3mZ5Mqdty4sEY2Va/giphy.gif" width="30" alt="Who am I animation" /> `WHOAMI`
+---
 
 <div align="center">
   <img src="terminal.svg" width="90%" alt="terminal: python whoami.py" />
 </div>
 
+---
+
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmkydTR3ejB4YmlwcWhid3k2cHU1MmZtczk0ZTdzdzNmdGM3bjVoeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7520F8VcFddZh2zm/giphy.gif" width="28" alt="animated icon" />  `Code_Dna`
+---
 
 <div align="center">
   <img src="https://git-hub-insights-nine.vercel.app/api/insight?username=soumensen411&theme=myOwn&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false&border=false" alt="soumensen411's GitHub Insights" />
@@ -17,11 +23,8 @@
 
 ##
 
-
-- <strong><a href="https://github.com/soumensen411/Deep-Learning-Model" target="_blank">🧠 Deep Learning Model</a></strong>
-  - Collection of deep learning projects and experiments (CNNs, RNNs, transfer learning) with notebooks, training code, and example models.
-
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmYxbzBrZXhibHAzbXp5bmxiZzJ1cTkzMGhmbGxoMDMyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="28" alt="animated icon" /> `FEATURED_REPOSITORIES`
+---
 
 <br>
 
@@ -41,8 +44,10 @@
 
 **[→ view all repositories](https://github.com/soumensen411?tab=repositories)**
 
+---
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTlhZTZxZmI2eTA3eXd5ZHdha2F4N2Z6d293anFsN3R0eWk1OTl1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TxdyQc4W0L0dqoMDLy/giphy.gif" width="30" alt="Languages and tools animation" /> ` LANGUAGES_AND_TOOLS`
+---
 
 <table>
   <tr>
@@ -165,7 +170,11 @@
   </tr>
 </table>
 
+---
+
 ###  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4aGNiZnFmYXRtam5wZW0zNjU4eHg3NGpjNHM5cm1ubzdjd2lmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GFeFpm1jZZD0m4wlQ3/giphy.gif" width="30" alt="Contact animation" /> ` Contact With Me`
+
+---
 
 <br>
 
@@ -173,44 +182,44 @@
 
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://www.linkedin.com/in/soum-en-sen/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="40"/>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="mailto:soumensen411@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="40"/>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://leetcode.com/u/soumensen411/" target="_blank">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" height="40"/>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://soumen.me" target="_blank">
         <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000" height="40"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://www.hackerrank.com/profile/Soumensen" target="_blank">
         <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=00EA64" height="40"/>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://discord.com/users/" target="_blank">
         <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" height="40"/>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://www.instagram.com/soum_en_sen/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="40"/>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://github.com/soumensen411" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40"/>
       </a>
@@ -222,6 +231,7 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=soumensen411.soumensen411&rstyle=plastic&left_text=Profile%20Views%20:" />
 
+---
 </div>
 
 
