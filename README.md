@@ -5,7 +5,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHdtMTBzMXEwa3dtc3ZxemQ4aWxndHRhbHJqd283eTlkN3h0bXdkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3mZ5Mqdty4sEY2Va/giphy.gif" width="30" alt="Who am I animation" /> `WHOAMI`
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHdtMTBzMXEwa3dtc3ZxemQ4aWxndHRhbHJqd283eTlkN3h0bXdkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3mZ5Mqdty4sEY2Va/giphy.gif" width="30" alt="Who am I?" />
 ---
 
 <div align="center">
@@ -14,30 +14,27 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmkydTR3ejB4YmlwcWhid3k2cHU1MmZtczk0ZTdzdzNmdGM3bjVoeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7520F8VcFddZh2zm/giphy.gif" width="28" alt="animated icon" />  `Code_Dna`
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmkydTR3ejB4YmlwcWhid3k2cHU1MmZtczk0ZTdzdzNmdGM3bjVoeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7520F8VcFddZh2zm/giphy.gif" width="28" alt="animated icon" />
 ---
 
 <div align="center">
-  <img src="https://git-hub-insights-nine.vercel.app/api/insight?username=soumensen411&theme=myOwn&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false&border=false" alt="soumensen411's GitHub Insights" />
+  <img src="https://git-hub-insights-nine.vercel.app/api/insight?username=soumensen411&theme=myOwn&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false&border=false&hide_border=true" width="90%" alt="GitHub insights" />
 </div>
 
 ##
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmYxbzBrZXhibHAzbXp5bmxiZzJ1cTkzMGhmbGxoMDMyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="28" alt="animated icon" /> `FEATURED_REPOSITORIES`
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmYxbzBrZXhibHAzbXp5bmxiZzJ1cTkzMGhmbGxoMDMyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="28" alt="animated icon" />
 ---
 
 <br>
 
 <div align="center">
-
-| 🎬 | 🍔 | 🧠 |
-|----|----|----|
-| [![Movie Recommendation](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Movie-Recommendation-ML-Model&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Movie-Recommendation-ML-Model) | [![Food Delivery](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Food-Delivery-Time-Prediction-With-Machine-Learning&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Food-Delivery-Time-Prediction-With-Machine-Learning) | [![DSA Collection](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Data-Structure-Algorithm&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Data-Structure-Algorithm) |
-
-| 🤖 | 🏦 | 🧑‍🎓 |
-|----|----|----|
-| [![Deep Learning](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Deep-Learning-Model&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Deep-Learning-Model) | [![Bank Management](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Bank-Management-System&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Bank-Management-System) | [![Mental Health](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Student-Mental-Health-Score-Prediction-&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Student-Mental-Health-Score-Prediction-) |
-
+  <a href="https://github.com/soumensen411/Movie-Recommendation-ML-Model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Movie-Recommendation-ML-Model&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=B0B0B0&icon_color=58A6FF&border_color=30363D" alt="Movie Recommendation" width="420" />
+  </a>
+  <a href="https://github.com/soumensen411/Deep-Learning-Model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Deep-Learning-Model&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=B0B0B0&icon_color=58A6FF&border_color=30363D" alt="Deep Learning" width="420" />
+  </a>
 </div>
 
 <br>
@@ -46,7 +43,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTlhZTZxZmI2eTA3eXd5ZHdha2F4N2Z6d293anFsN3R0eWk1OTl1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TxdyQc4W0L0dqoMDLy/giphy.gif" width="30" alt="Languages and tools animation" /> ` LANGUAGES_AND_TOOLS`
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTlhZTZxZmI2eTA3eXd5ZHdha2F4N2Z6d293anFsN3R0eWk1OTl1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TxdyQc4W0L0dqoMDLy/giphy.gif" width="30" alt="Language" />
 ---
 
 <table>
@@ -172,7 +169,7 @@
 
 ---
 
-###  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4aGNiZnFmYXRtam5wZW0zNjU4eHg3NGpjNHM5cm1ubzdjd2lmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GFeFpm1jZZD0m4wlQ3/giphy.gif" width="30" alt="Contact animation" /> ` Contact With Me`
+###  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4aGNiZnFmYXRtam5wZW0zNjU4eHg3NGpjNHM5cm1ubzdjd2lmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GFeFpm1jZZD0m4wlQ3/giphy.gif" width="30" alt="Contact" />
 
 ---
 
