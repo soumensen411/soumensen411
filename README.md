@@ -31,14 +31,15 @@
 <div align="center">
 
 | 🎬 | 🍔 | 🧠 |
-|----|----|----|
-| [![Movie Recommendation](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Movie-Recommendation-ML-Model&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Movie-Recommendation-ML-Model) | [![Food Delivery](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Food-Delivery-Time-Prediction-With-Machine-Learning&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Food-Delivery-Time-Prediction-With-Machine-Learning) | [![DSA Collection](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Data-Structure-Algorithm&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Data-Structure-Algorithm) |
+|:--:|:--:|:--:|
+| [![Movie Recommendation](https://opengraph.githubassets.com/1/soumensen411/Movie-Recommendation-ML-Model)](https://github.com/soumensen411/Movie-Recommendation-ML-Model) | [![Food Delivery](https://opengraph.githubassets.com/1/soumensen411/Food-Delivery-Time-Prediction-With-Machine-Learning)](https://github.com/soumensen411/Food-Delivery-Time-Prediction-With-Machine-Learning) | [![DSA Collection](https://opengraph.githubassets.com/1/soumensen411/Data-Structure-Algorithm)](https://github.com/soumensen411/Data-Structure-Algorithm) |
 
 | 🤖 | 🏦 | 🧑‍🎓 |
-|----|----|----|
-| [![Deep Learning](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Deep-Learning-Model&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Deep-Learning-Model) | [![Bank Management](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Bank-Management-System&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Bank-Management-System) | [![Mental Health](https://github-readme-stats.vercel.app/api/pin/?username=soumensen411&repo=Student-Mental-Health-Score-Prediction-&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=B0B0B0&border_color=FFFFFF)](https://github.com/soumensen411/Student-Mental-Health-Score-Prediction-) |
+|:--:|:--:|:--:|
+| [![Deep Learning](https://opengraph.githubassets.com/1/soumensen411/Deep-Learning-Model)](https://github.com/soumensen411/Deep-Learning-Model) | [![Bank Management](https://opengraph.githubassets.com/1/soumensen411/Bank-Management-System)](https://github.com/soumensen411/Bank-Management-System) | [![Mental Health](https://opengraph.githubassets.com/1/soumensen411/Student-Mental-Health-Score-Prediction-)](https://github.com/soumensen411/Student-Mental-Health-Score-Prediction-) |
 
 </div>
+
 
 <br>
 
